@@ -10,15 +10,15 @@ role: Machine Learning Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Ocado Engineering
-  url: https://ocadointelligentautomation.com/
+- name: Applied Intuition
+  url: https://www.appliedintuition.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Machine Learning and Robotics enthusiast, currently building smart robots at Kindred AI (San Francisco).
+bio: Machine Learning and Robotics enthusiast, currently building 3D reconstruction tools for Applied Intuition.
 
 # Interests to show in About widget
 interests:
-- Autonomous Robots
+- Autonomous Vehicles
 - Robot Manipulation
 - Artificial Intelligence
 - Cricket, Tennis and Badminton
