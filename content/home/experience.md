@@ -37,8 +37,8 @@ experience:
     company_url: 'https://www.kindred.ai/'
     company_logo:
     location: San Francisco, California
-    date_start: '2021-01-01'
-    date_end: '2025'
+    date_start: '2021-09-01'
+    date_end: '2025-01-01'
     description: |2-
         We are building the world’s first grocery fulfillment robotic system capable of being fully autonomous.
         
