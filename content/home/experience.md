@@ -22,13 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer (Special Projects)
+    company: Applied Intuition
+    company_url: 'https://www.appliedintuition.com/'
+    company_logo:
+    location: Sunnyvale, California
+    date_start: '2025-01-01'
+    date_end: ''
+    description: |2-
+        I am building state-of-the-art simulation tools for AV applications.
+  
   - title: Machine Learning Engineer
     company: Kindred AI
     company_url: 'https://www.kindred.ai/'
     company_logo:
     location: San Francisco, California
-    date_start: '2021-09-01'
-    date_end: ''
+    date_start: '2021-01-01'
+    date_end: '2025'
     description: |2-
         We are building the world’s first grocery fulfillment robotic system capable of being fully autonomous.
         
